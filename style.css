@@ -176,7 +176,7 @@ h2 {
     } 
 
     .navbar__item { 
-        width: 100; 
+        width: 100%; 
     } 
 
     .navbar__links {
